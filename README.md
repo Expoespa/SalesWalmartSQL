@@ -148,7 +148,7 @@ For the rest of the code, check the [SQL_queries.sql](https://github.com/Expoesp
 
 ```sql
 -- Create database
-CREATE DATABASE IF NOT EXISTS salesDataWalmar;
+CREATE DATABASE IF NOT EXISTS salesDataWalmart;
 
 
 -- Create table
